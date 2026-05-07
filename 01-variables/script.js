@@ -1,7 +1,7 @@
 // VARIABLES
 
 // variable is used to store the data
-
+ 
 // STRING = text
 
 let firstname = 'Aishwarya';
