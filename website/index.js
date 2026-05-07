@@ -5,7 +5,7 @@
 //window.alert('i like pink');
 
 document.getElementById('my-h1')
-
+ 
 // this is a comment
 /* 
     this 
